@@ -7,6 +7,7 @@ int			main(int argc, char **argv);
 int			is_valid_number(char *str);
 
 int			ft_strlen(char *str);
+int			ft_strcmp(char *s1, char *s2);
 int			ft_is_space(char c);
 int			ft_is_digit(char c);
 void		ft_putstr(char *str);
